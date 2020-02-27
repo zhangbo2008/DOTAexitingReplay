@@ -1,6 +1,6 @@
 # DOTAexitingReplay
 use warcraft 3 1.26 to play!!!!111 github拿我当菜鸟码农我拿github当网盘
-
+地图是:DotA_v6_85b_OMG2l.w3x
 
 
 11平台改建:
